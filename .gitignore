@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Entorno (nunca versionar credenciales)
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/

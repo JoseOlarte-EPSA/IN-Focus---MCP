@@ -1,0 +1,5 @@
+fastmcp
+uvicorn[standard]
+python-dotenv
+pyodbc
+pandas
